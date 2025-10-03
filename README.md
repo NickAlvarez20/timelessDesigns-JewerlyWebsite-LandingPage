@@ -17,7 +17,6 @@ Timeless Designs Jewelry Website Landing Page
 A visually appealing static landing page for Timeless Designs Jewelry, designed to showcase a collection of jewelry products. The website features a modern, responsive design with a focus on user engagement through interactive navigation, product highlights, and a professional layout to attract potential customers.
 ## Prerequisites
 To run this project, you need no specific programming language installed on your system. It is a static website that runs in any modern web browser. No additional libraries are required, though external fonts are imported from Google Fonts (Sofia, Protest Strike, Anton, Barlow Condensed, Jost).
-Determine is additional libraries are required or no additional libraries
 ## Features
 This project includes these features:
 
